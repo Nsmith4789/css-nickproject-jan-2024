@@ -1,0 +1,41 @@
+header {
+    color: lime;
+    font-size: xx-large;
+}
+
+h1 {
+    color: gold;
+}
+
+main {
+    float: left;
+    width: 800px;
+    color: black;
+    border-style: solid;
+    background-image: linear-gradient(limegreen, gold);
+    font-size: larger;
+
+}
+
+aside {
+    float: right;
+    width: 600px;
+    color: black;
+    border-style: solid;
+    background-image: linear-gradient(limegreen, gold);
+    font-size: larger;
+    list-style-type: none;
+}
+
+
+#balloon3 {
+    float: left;
+}
+
+img {
+    float: left;
+}
+
+body {
+    background-image: url(infiniteparty3.jpg);
+}

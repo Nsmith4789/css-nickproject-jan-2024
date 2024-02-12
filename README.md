@@ -19,9 +19,9 @@ The basic design will look like this low fidelity wireframe.
 
 ## Roadmap
 
-- [ ] Home Page
-- [ ] About Page
-- [ ] Menu Page
+- [x] Home Page
+- [x] About Page
+- [x] Menu Page
 
 
 ## Contact

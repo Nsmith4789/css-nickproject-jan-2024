@@ -1,0 +1,35 @@
+header {
+    font-size: larger;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(crimson, gold);
+}
+
+#party1 {
+    float: right;
+    width: 400px;
+}
+
+#party2 {
+    float: right;
+    width: 400px;
+}
+
+#party3 {
+    float: left;
+}
+
+#party4 {
+    float: right;
+}
+
+#party5 {
+    float: left;
+}
+
+div {
+    float: right
+}
